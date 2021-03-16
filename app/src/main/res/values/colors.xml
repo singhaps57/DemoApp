@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#ffffff</color>
+    <color name="edit_text_color_hint">#898989</color>
+    <color name="edit_text_color">#262626</color>
+    <color name="toggle_color">#545454</color>
+    <color name="btn_rect_color">#FB3745</color>
+    <color name="opactiy_rect_color">#11FB3745</color>
+    <color name="forgot_pwd_color">#262626</color>
+    <color name="view_color">#9F9F9F</color>
+    <color name="dont_have_color">#898989</color>
+    <color name="bottom_view_color">#D0D0D0</color>
+    <color name="otp_rectangular_color">#717171</color>
+    <color name="bottom_text_color">#757575</color>
+    <color name="search_rect_color">#F2F2F2</color>
+    <color name="background_color">#F7F7F7</color>
+    <color name="banner_circle_color">#33000000</color>
+    <color name="black">#000000</color>
+    <color name="tool_rect_border">#DFDFDF</color>
+    <color name="profile_tool_rect">#F3F2FF</color>
+    <color name="green">#42A22F</color>
+    <color name="dark_green">#008080</color>
+    <color name="background">#dddddd</color>
+    <color name="adapter_view_color">#DFDFDF</color>
+    <color name="deliver_text_color">#A2A2A2</color>
+    <color name="order_rect_color">#DDF8F8</color>
+    <color name="notificaation_rect_color">#FEF5DB</color>
+    <color name="all_rect">#F8F8F8</color>
+    <color name="acount_color">#FFFDE6</color>
+    <color name="border_color">#E5E1B1</color>
+    <color name="hire_tab_color">#323643</color>
+</resources>

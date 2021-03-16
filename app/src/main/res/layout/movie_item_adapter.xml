@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="@dimen/_140sdp"
+        android:layout_height="@dimen/_160sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:layout_margin="@dimen/_5sdp">
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="@dimen/_140sdp"
+            android:layout_height="@dimen/_160sdp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/imgMovie"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_120sdp"
+                android:src="@color/background"
+                android:layout_gravity="center"/>
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/txtMovieName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dil to pagal hai"
+                android:textColor="@color/btn_rect_color"
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center"
+                android:ellipsize="end"
+                android:lines="1"
+                android:fontFamily="@font/sourcesanspro_bold"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
